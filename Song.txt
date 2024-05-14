@@ -1,2 +1,5 @@
 Sworde and spear
 wall of shields
+
+
+// это я добавил проверку
